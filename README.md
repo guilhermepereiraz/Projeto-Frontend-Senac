@@ -14,5 +14,5 @@ ________________________________________________________________________________
 # Integrantes de interatividade com JavaScript
 __________________________________________________________________________________________
 - Guiherme Pereira - https://github.com/guilhermepereiraz
-- Jonathan -
-- Guilherme Germano -
+- Jonathan - https://github.com/jonathan2027
+- Guilherme Germano - https://github.com/Guilhermeslv00
