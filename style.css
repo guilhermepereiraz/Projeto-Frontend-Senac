@@ -1,0 +1,351 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header > h1 {
+    background: #245c9c;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+    background-color: #fcf4ec;
+    position: relative;
+}
+
+/* Div Formulario */
+
+div#fm1{
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    background-color: white;
+    background-color: #dcecf4;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 250px;
+    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+
+}
+
+div#fm1 > h1 {
+    font-size: 15px;
+    margin-top: 170px;
+}
+
+div#fm1 > p {
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div#fm1 > img{
+ position: absolute;
+ width: 200px;
+ margin-top: -180px;
+ margin-left: 5px;
+ 
+}
+
+div#fm1 > a {
+    color: #245c9c;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Div Google */
+
+div#gogs{
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    background-color: white;
+    background-color: #dcecf4;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 550px;
+    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+
+}
+
+div#gogs > h1 {
+    font-size: 15px;
+    margin-top: 170px;
+}
+
+div#gogs > p {
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div#gogs > img{
+ position: absolute;
+ width: 200px;
+ margin-top: -180px;
+ margin-left: 5px;
+ 
+}
+
+div#gogs > a {
+    color: #245c9c;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Div Netflix */
+
+div#ntflx{
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    background-color: white;
+    background-color: #dcecf4;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 850px;
+    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+
+}
+
+div#ntflx > h1 {
+    font-size: 15px;
+    margin-top: 170px;
+}
+
+div#ntflx > p {
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div#ntflx > img{
+ position: absolute;
+ width: 200px;
+ margin-top: -180px;
+ margin-left: 5px;
+ 
+}
+
+div#ntflx > a {
+    color: #245c9c;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Div futuro formulario 01 */
+
+div#pj01{
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    background-color: white;
+    background-color: #dcecf4;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 1150px;
+    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+
+}
+
+div#pj01 > h1 {
+    font-size: 15px;
+    margin-top: 170px;
+}
+
+div#pj01 > p {
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div#pj01 > img{
+ position: absolute;
+ width: 200px;
+ margin-top: -180px;
+ margin-left: 5px;
+ 
+}
+
+div#pj01 > a {
+    color: #245c9c;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Div futuro formulario 02 */
+
+div#pj02{
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    background-color: white;
+    background-color: #dcecf4;
+    padding: 10px;
+    margin-top: 400px;
+    margin-left: 250px;
+    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+
+}
+
+div#pj02 > h1 {
+    font-size: 15px;
+    margin-top: 170px;
+}
+
+div#pj02 > p {
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div#pj02 > img{
+ position: absolute;
+ width: 200px;
+ margin-top: -180px;
+ margin-left: 5px;
+ 
+}
+
+div#pj02 > a {
+    color: #245c9c;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Div futuro formulario 03 */
+
+div#pj03{
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    background-color: white;
+    background-color: #dcecf4;
+    padding: 10px;
+    margin-top: 400px;
+    margin-left: 550px;
+    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+
+}
+
+div#pj03 > h1 {
+    font-size: 15px;
+    margin-top: 170px;
+}
+
+div#pj03 > p {
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div#pj03 > img{
+ position: absolute;
+ width: 200px;
+ margin-top: -180px;
+ margin-left: 5px;
+ 
+}
+
+div#pj03 > a {
+    color: #245c9c;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Div futuro formulario 04 */
+
+div#pj04 {
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    background-color: white;
+    background-color: #dcecf4;
+    padding: 10px;
+    margin-top: 400px;
+    margin-left: 850px;
+    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+
+}
+
+div#pj04 > h1 {
+    font-size: 15px;
+    margin-top: 170px;
+}
+
+div#pj04 > p {
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div#pj04 > img{
+ position: absolute;
+ width: 200px;
+ margin-top: -180px;
+ margin-left: 5px;
+ 
+}
+
+div#pj04 > a {
+    color: #245c9c;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Div futuro formulario 05 */
+
+div#pj05 {
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    background-color: white;
+    background-color: #dcecf4;
+    padding: 10px;
+    margin-top: 400px;
+    margin-left: 1150px;
+    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+
+}
+
+div#pj05 > h1 {
+    font-size: 15px;
+    margin-top: 170px;
+}
+
+div#pj05 > p {
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div#pj05 > img{
+ position: absolute;
+ width: 200px;
+ margin-top: -180px;
+ margin-left: 5px;
+ 
+}
+
+div#pj05 > a {
+    color: #245c9c;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+/* Footer*/
+
+footer > h1 {
+    background: #245c9c;
+    color: white;
+    margin-top: 50%;
+    padding: 15px;
+    text-align: center;
+}
