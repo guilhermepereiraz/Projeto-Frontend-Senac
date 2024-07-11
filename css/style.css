@@ -126,7 +126,8 @@ div#ntflx > p {
 
 div#ntflx > img{
  position: absolute;
- width: 200px;
+ width: 210px;
+ height: 150px;
  margin-top: -180px;
  margin-left: 5px;
  
