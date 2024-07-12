@@ -62,7 +62,7 @@ div#fm1 > a {
 
 div#gogs{
     width: 220px;
-    height: 250px;
+    height: 250px;  
     position: absolute;
     background-color: white;
     background-color: #dcecf4;
@@ -86,7 +86,8 @@ div#gogs > p {
 
 div#gogs > img{
  position: absolute;
- width: 200px;
+ width: 210px;
+ height: 150px;
  margin-top: -180px;
  margin-left: 5px;
  
