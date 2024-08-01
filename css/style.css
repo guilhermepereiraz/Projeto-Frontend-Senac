@@ -7,16 +7,16 @@
 }
 
 header > h1 {
-    background: #245c9c;
+    background: rgb(37, 34, 34);
     color: white;
     padding: 20px;
     text-align: center;
 }
 
 body {
-    background-color: #fcf4ec;
     position: relative;
 }
+
 
 /* Div Formulario */
 
@@ -24,18 +24,25 @@ div#fm1{
     width: 220px;
     height: 250px;
     position: absolute;
-    background-color: white;
-    background-color: #dcecf4;
     padding: 10px;
     margin-top: 50px;
     margin-left: 250px;
-    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+    border-radius: 5px;
+    box-shadow: 8px 8px 20px rgb(214, 214, 214);
+    position: absolute;
+    
 
+}
+
+div#fm1:hover {
+    box-shadow: 2px 2px 5px rgb(214, 214, 214);
+    transition: 0.5s;
 }
 
 div#fm1 > h1 {
     font-size: 15px;
     margin-top: 170px;
+  
 }
 
 div#fm1 > p {
@@ -58,19 +65,26 @@ div#fm1 > a {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+
+
 /* Div Google */
 
 div#gogs{
     width: 220px;
     height: 250px;  
     position: absolute;
-    background-color: white;
-    background-color: #dcecf4;
     padding: 10px;
     margin-top: 50px;
     margin-left: 550px;
-    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+    border-radius: 5px;
+    box-shadow: 8px 8px 20px rgb(214, 214, 214);
+    position: absolute;
 
+}
+
+div#gogs:hover {
+    box-shadow: 2px 2px 5px rgb(214, 214, 214);
+    transition: 0.5s;
 }
 
 div#gogs > h1 {
@@ -105,13 +119,18 @@ div#ntflx{
     width: 220px;
     height: 250px;
     position: absolute;
-    background-color: white;
-    background-color: #dcecf4;
     padding: 10px;
     margin-top: 50px;
     margin-left: 850px;
-    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+    border-radius: 5px;
+    box-shadow: 8px 8px 20px rgb(214, 214, 214);
+    position: absolute;
 
+}
+
+div#ntflx:hover {
+    box-shadow: 2px 2px 5px rgb(214, 214, 214);
+    transition: 0.5s;
 }
 
 div#ntflx > h1 {
@@ -146,13 +165,18 @@ div#pj01{
     width: 220px;
     height: 250px;
     position: absolute;
-    background-color: white;
-    background-color: #dcecf4;
     padding: 10px;
     margin-top: 50px;
     margin-left: 1150px;
-    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+    border-radius: 5px;
+    box-shadow: 8px 8px 20px rgb(214, 214, 214);
+    position: absolute;
 
+}
+
+div#pj01:hover {
+    box-shadow: 2px 2px 5px rgb(214, 214, 214);
+    transition: 0.5s;
 }
 
 div#pj01 > h1 {
@@ -186,13 +210,18 @@ div#pj02{
     width: 220px;
     height: 250px;
     position: absolute;
-    background-color: white;
-    background-color: #dcecf4;
     padding: 10px;
     margin-top: 400px;
     margin-left: 250px;
-    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+    border-radius: 5px;
+    box-shadow: 8px 8px 20px rgb(214, 214, 214);
+    position: absolute;
 
+}
+
+div#pj02:hover {
+    box-shadow: 2px 2px 5px rgb(214, 214, 214);
+    transition: 0.5s;
 }
 
 div#pj02 > h1 {
@@ -226,13 +255,18 @@ div#pj03{
     width: 220px;
     height: 250px;
     position: absolute;
-    background-color: white;
-    background-color: #dcecf4;
     padding: 10px;
     margin-top: 400px;
     margin-left: 550px;
-    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+    border-radius: 5px;
+    box-shadow: 8px 8px 20px rgb(214, 214, 214);
+    position: absolute;
 
+}
+
+div#pj03:hover {
+    box-shadow: 2px 2px 5px rgb(214, 214, 214);
+    transition: 0.5s;
 }
 
 div#pj03 > h1 {
@@ -266,13 +300,18 @@ div#pj04 {
     width: 220px;
     height: 250px;
     position: absolute;
-    background-color: white;
-    background-color: #dcecf4;
     padding: 10px;
     margin-top: 400px;
     margin-left: 850px;
-    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+    border-radius: 5px;
+    box-shadow: 8px 8px 20px rgb(214, 214, 214);
+    position: absolute;
 
+}
+
+div#pj04:hover {
+    box-shadow: 2px 2px 5px rgb(214, 214, 214);
+    transition: 0.5s;
 }
 
 div#pj04 > h1 {
@@ -306,14 +345,20 @@ div#pj05 {
     width: 220px;
     height: 250px;
     position: absolute;
-    background-color: white;
-    background-color: #dcecf4;
     padding: 10px;
     margin-top: 400px;
     margin-left: 1150px;
-    box-shadow: 1px 1px 3px 1px rgba(66, 64, 64, 0.59);
+    border-radius: 5px;
+    box-shadow: 8px 8px 20px rgb(214, 214, 214);
+    position: absolute;
 
 }
+
+div#pj05:hover {
+    box-shadow: 2px 2px 5px rgb(214, 214, 214);
+    transition: 0.5s;
+}
+
 
 div#pj05 > h1 {
     font-size: 15px;
@@ -345,8 +390,8 @@ div#pj05 > a {
 /* Footer*/
 
 footer > h1 {
-    background: #245c9c;
-    color: white;
+    background: rgb(37, 34, 34);
+    color: rgb(255, 255, 255);
     margin-top: 50%;
     padding: 15px;
     text-align: center;
